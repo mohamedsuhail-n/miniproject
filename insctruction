@@ -1,0 +1,5 @@
+first need to import all the needed packages here most of them are in built  the needed import packages are pymupdf which is the fitz
+
+pip install fitz
+or
+pip install pymupdf
